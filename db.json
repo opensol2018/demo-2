@@ -5,9 +5,9 @@
 			"hora": "12:15",
 			"direccion": "Nueva Providencia 2353",
 			"comuna": "Providencia",
-			"titles": [
-				{"titulo": "#5611 - Metrogas", "asunto":"Entrega Toner JJO", "comentario":"Urgencia por contrato marco gobierno"}
-			],
+			"titulo1": "#5611 - Metrogas", 
+			"titulo2":"Entrega Toner JJO", 
+			"titulo3":"Urgencia por contrato marco gobierno",
 			"indicador": [2, 1, 0]
 		},
 		{
@@ -16,9 +16,9 @@
 			"hora": "12:15",
 			"direccion": "Camino a Lonquén",
 			"comuna": ["San Bernardo", "Maipu"],
-			"titles": [
-			  {"titulo":"#5615 - Watts", "asunto":"Entrega Impresora ABC"}
-			  ],
+			"titulo1":"#5615 - Watts", 
+			"titulo2":"Entrega Impresora ABC",
+			"titulo3":null,
 			"indicador": [1, 1, 0]
 		},
 		{
@@ -27,9 +27,9 @@
 			"hora": "12:15",
 			"direccion": "Nueva Providencia 2353",
 			"comuna": "Providencia",
-			"titles": [
-			  {"titulo":"#5619 - Metrogas", "asunto":"Entrega Toner JJO"}
-			  ],
+			"titulo1":"#5619 - Metrogas", 
+			"titulo2":"Entrega Toner JJO",
+			"titulo3":null,
 			"indicador": [1, 1, 0]
 		},
 		{
@@ -38,9 +38,9 @@
 			"hora": "12:15",
 			"direccion": "Av Libertador Bernardo O'Higgins 3750",
 			"comuna": "Santiago",
-			"titles": [
-			  {"titulo":"#5621 - Turbus", "asunto":"Entrega Impresora ABC"}
-			  ],
+			"titulo1":"#5621 - Turbus", 
+			"titulo2":"Entrega Impresora ABC",
+			"titulo3":null,
 			"indicador": [1, 2, 0]
 		},
 		{
@@ -49,9 +49,9 @@
 			"hora": "12:15",
 			"direccion": "Av Libertador Bernardo O'Higgins 3750",
 			"comuna": "Santiago",
-			"titles": [
-			  {"titulo":"#5624 - Turbus", "asunto":"Entrega Impresora ABC"}
-			  ],
+			"titulo1":"#5624 - Turbus", 
+			"titulo2":"Entrega Impresora ABC",
+			 "titulo3":null,
 			"indicador": [1, 1, 0]
 		},
 		{
@@ -60,9 +60,9 @@
 			"hora": "12:15",
 			"direccion": "Nueva Providencia 2353",
 			"comuna": "Providencia",
-			"titles": [
-			  {"titulo":"#5625 - Metrogas", "asunto":"Entrega Toner JJO"}
-			  ],
+			"titulo1":"#5625 - Metrogas", 
+			"titulo2":"Entrega Toner JJO",
+			 "titulo3":null,
 			"indicador": [1, 1, 0]
 		}
 	]
