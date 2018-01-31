@@ -163,17 +163,6 @@
 			"titulo2":"Entrega Toner JJO",
 			 "titulo3":null,
 			"indicador": [1, 1, 0]
-		},
-		{
-			"id": 512,
-			"fecha": "27-01-2018",
-			"hora": "12:15",
-			"direccion": "Nueva Providencia 2353",
-			"comuna": "Providencia",
-			"titulo1":"#5625 - Metrogas", 
-			"titulo2":"Entrega Toner JJO",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
 		}	     
 	]
 }
