@@ -4,7 +4,7 @@
 			"fecha": "10-01-2018",
 			"hora": "12:15",
 			"direccion": "Nueva Providencia 2353",
-			"gps":{"latitude":-33.425906,"longitude":-70.604328}
+			"gps":{"latitude":-33.425906,"longitude":-70.604328},
 			"comuna": "Providencia",
 			"titulo1": "#5611 - Metrogas", 
 			"titulo2":"Entrega Toner JJO", 
@@ -16,7 +16,7 @@
 			"fecha": "14-01-2018",
 			"hora": "12:15",
 			"direccion": "Camino a Lonquén",
-			"gps":{"latitude":-33.421594,"longitude":-70.610958}
+			"gps":{"latitude":-33.421594,"longitude":-70.610958},
 			"comuna": ["San Bernardo", "Maipu"],
 			"titulo1":"#5615 - Watts", 
 			"titulo2":"Entrega Impresora ABC",
@@ -28,7 +28,7 @@
 			"fecha": "18-01-2018",
 			"hora": "12:15",
 			"direccion": "Nueva Providencia 2353",
-			"gps":{"latitude":-33.425310,"longitude":-70.614252}
+			"gps":{"latitude":-33.425310,"longitude":-70.614252},
 			"comuna": "Providencia",
 			"titulo1":"#5619 - Metrogas", 
 			"titulo2":"Entrega Toner JJO",
