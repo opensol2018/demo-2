@@ -4,6 +4,7 @@
 			"fecha": "10-01-2018",
 			"hora": "12:15",
 			"direccion": "Nueva Providencia 2353",
+			"gps":{"latitude":-33.425906,"longitude":-70.604328}
 			"comuna": "Providencia",
 			"titulo1": "#5611 - Metrogas", 
 			"titulo2":"Entrega Toner JJO", 
@@ -15,6 +16,7 @@
 			"fecha": "14-01-2018",
 			"hora": "12:15",
 			"direccion": "Camino a Lonquén",
+			"gps":{"latitude":-33.421594,"longitude":-70.610958}
 			"comuna": ["San Bernardo", "Maipu"],
 			"titulo1":"#5615 - Watts", 
 			"titulo2":"Entrega Impresora ABC",
@@ -26,144 +28,13 @@
 			"fecha": "18-01-2018",
 			"hora": "12:15",
 			"direccion": "Nueva Providencia 2353",
+			"gps":{"latitude":-33.425310,"longitude":-70.614252}
 			"comuna": "Providencia",
 			"titulo1":"#5619 - Metrogas", 
 			"titulo2":"Entrega Toner JJO",
 			"titulo3":null,
 			"indicador": [1, 1, 0]
-		},
-		{
-			"id": 500,
-			"fecha": "22-01-2018",
-			"hora": "12:15",
-			"direccion": "Av Libertador Bernardo O'Higgins 3750",
-			"comuna": "Santiago",
-			"titulo1":"#5621 - Turbus", 
-			"titulo2":"Entrega Impresora ABC",
-			"titulo3":null,
-			"indicador": [1, 2, 0]
-		},
-		{
-			"id": 501,
-			"fecha": "25-01-2018",
-			"hora": "12:15",
-			"direccion": "Av Libertador Bernardo O'Higgins 3750",
-			"comuna": "Santiago",
-			"titulo1":"#5624 - Turbus", 
-			"titulo2":"Entrega Impresora ABC",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
-		},
-		{
-			"id": 502,
-			"fecha": "27-01-2018",
-			"hora": "12:15",
-			"direccion": "Nueva Providencia 2353",
-			"comuna": "Providencia",
-			"titulo1":"#5625 - Metrogas", 
-			"titulo2":"Entrega Toner JJO",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
-		},
-		{
-			"id": 503,
-			"fecha": "27-01-2018",
-			"hora": "12:15",
-			"direccion": "Nueva Providencia 2353",
-			"comuna": "Providencia",
-			"titulo1":"#5625 - Metrogas", 
-			"titulo2":"Entrega Toner JJO",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
-		},
-		{
-			"id": 504,
-			"fecha": "27-01-2018",
-			"hora": "12:15",
-			"direccion": "Nueva Providencia 2353",
-			"comuna": "Providencia",
-			"titulo1":"#5625 - Metrogas", 
-			"titulo2":"Entrega Toner JJO",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
-		},
-		{
-			"id": 505,
-			"fecha": "27-01-2018",
-			"hora": "12:15",
-			"direccion": "Nueva Providencia 2353",
-			"comuna": "Providencia",
-			"titulo1":"#5625 - Metrogas", 
-			"titulo2":"Entrega Toner JJO",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
-		},
-		{
-			"id": 506,
-			"fecha": "27-01-2018",
-			"hora": "12:15",
-			"direccion": "Nueva Providencia 2353",
-			"comuna": "Providencia",
-			"titulo1":"#5625 - Metrogas", 
-			"titulo2":"Entrega Toner JJO",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
-		},
-		{
-			"id": 507,
-			"fecha": "27-01-2018",
-			"hora": "12:15",
-			"direccion": "Nueva Providencia 2353",
-			"comuna": "Providencia",
-			"titulo1":"#5625 - Metrogas", 
-			"titulo2":"Entrega Toner JJO",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
-		},
-		{
-			"id": 508,
-			"fecha": "27-01-2018",
-			"hora": "12:15",
-			"direccion": "Nueva Providencia 2353",
-			"comuna": "Providencia",
-			"titulo1":"#5625 - Metrogas", 
-			"titulo2":"Entrega Toner JJO",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
-		},
-		{
-			"id": 509,
-			"fecha": "27-01-2018",
-			"hora": "12:15",
-			"direccion": "Nueva Providencia 2353",
-			"comuna": "Providencia",
-			"titulo1":"#5625 - Metrogas", 
-			"titulo2":"Entrega Toner JJO",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
-		},
-		{
-			"id": 510,
-			"fecha": "27-01-2018",
-			"hora": "12:15",
-			"direccion": "Nueva Providencia 2353",
-			"comuna": "Providencia",
-			"titulo1":"#5625 - Metrogas", 
-			"titulo2":"Entrega Toner JJO",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
-		},
-		{
-			"id": 511,
-			"fecha": "27-01-2018",
-			"hora": "12:15",
-			"direccion": "Nueva Providencia 2353",
-			"comuna": "Providencia",
-			"titulo1":"#5625 - Metrogas", 
-			"titulo2":"Entrega Toner JJO",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
-		}	     
+		}
 	]
 }
 
