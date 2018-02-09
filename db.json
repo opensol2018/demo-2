@@ -9,7 +9,7 @@
 			"titulo1": "#5611 - Metrogas", 
 			"titulo2":"Entrega Toner JJO", 
 			"titulo3":"Urgencia por contrato marco gobierno",
-			"plazo": "red"
+			"plazo": "#A6ACAF"
 		},
 		{
 			"id": 101,
@@ -21,7 +21,7 @@
 			"titulo1":"#5615 - Watts", 
 			"titulo2":"Entrega Impresora ABC",
 			"titulo3":null,
-			"plazo": "red"
+			"plazo": "#A6ACAF"
 		},
 		{
 			"id": 120,
