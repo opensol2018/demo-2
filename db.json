@@ -1,184 +1,183 @@
 {
 	"TodoMobileReport": [{
 			"id": 56,
-			"fecha": "10-01-2018",
-			"hora": "12:15",
+			"fecha": "09-02-2018",
+			"hora": "09:15",
 			"direccion": "Nueva Providencia 2353",
 			"comuna": "Providencia",
 			"gps":{"latitude":-33.420550,"longitude":-70.606717},
 			"titulo1": "#5611 - Metrogas", 
 			"titulo2":"Entrega Toner JJO", 
 			"titulo3":"Urgencia por contrato marco gobierno",
-			"indicador": [2, 1, 0]
+			"plazo": -90
 		},
 		{
 			"id": 101,
-			"fecha": "14-01-2018",
-			"hora": "12:35",
+			"fecha": "09-02-2018",
+			"hora": "10:30",
 			"direccion": "Camino a Lonquén",
 			"comuna": ["San Bernardo", "Maipu"],
 			"gps":{"latitude":-33.542914,"longitude":-70.742066},
 			"titulo1":"#5615 - Watts", 
 			"titulo2":"Entrega Impresora ABC",
 			"titulo3":null,
-			"indicador": [1, 1, 0]
+			"plazo": -30
 		},
 		{
 			"id": 120,
-			"fecha": "18-01-2018",
-			"hora": "13:15",
-			"direccion": "Nueva Providencia 2353",
-			"comuna": "Providencia",
-			"gps":{"latitude":-33.420550,"longitude":-70.606717},
-			"titulo1":"#5619 - Metrogas", 
-			"titulo2":"Entrega Toner JJO",
+			"fecha": "09-02-2018",
+			"hora": "12:45",
+			"direccion": "Pdte Riesco 5330",
+			"comuna": "Las Condes",
+			"gps":{"latitude":-33.403299,"longitude":-70.575494},
+			"titulo1":"#5625 - KidZania", 
+			"titulo2":"Entrega Toner e Impresora B2",
 			"titulo3":null,
-			"indicador": [1, 1, 0]
+			"plazo": 10
 		},
 		{
 			"id": 500,
-			"fecha": "22-01-2018",
-			"hora": "12:15",
+			"fecha": "09-02-2018",
+			"hora": "14:00",
 			"direccion": "Av Libertador Bernardo O'Higgins 3750",
 			"comuna": "Santiago",
 			"gps":{"latitude":-33.453209,"longitude":-70.686994},
 			"titulo1":"#5621 - Turbus", 
 			"titulo2":"Entrega Impresora ABC",
 			"titulo3":null,
-			"indicador": [1, 2, 0]
+			"plazo": 60
 		},
 		{
 			"id": 501,
-			"fecha": "25-01-2018",
-			"hora": "12:15",
-			"direccion": "Av Libertador Bernardo O'Higgins 3750",
-			"comuna": "Santiago",
-			"gps":{"latitude":-33.453209,"longitude":-70.686994},
-			"titulo1":"#5624 - Turbus", 
-			"titulo2":"Entrega Impresora ABC",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
-		},
-		{
-			"id": 502,
-			"fecha": "27-01-2018",
-			"hora": "12:15",
-			"direccion": "Nueva Providencia 2353",
-			"comuna": "Providencia",
-			"gps":{"latitude":-33.420550,"longitude":-70.606717},
-			"titulo1":"#5625 - Metrogas", 
-			"titulo2":"Entrega Toner JJO",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
-		},
-		{
-			"id": 503,
-			"fecha": "28-01-2018",
-			"hora": "11:15",
-			"direccion": "Av Libertador Bernardo O'Higgins 3750",
-			"comuna": "Santiago",
-			"gps":{"latitude":-33.453209,"longitude":-70.686994},
-			"titulo1":"#5626 - Turbus", 
-			"titulo2":"Entrega Impresora ABC",
-			"titulo3":null,
-			"indicador": [1, 2, 0]
-		},
-		{
-			"id": 504,
-			"fecha": "28-01-2018",
-			"hora": "12:55",
+			"fecha": "09-02-2018",
+			"hora": "15:15",
 			"direccion": "Blanco Encalada 2540",
 			"comuna": "Santiago",
 			"gps":{"latitude":-33.458643,"longitude":-70.670692},
 			"titulo1":"#5627 - Club Hipico", 
 			"titulo2":"Entrega Toner JJO",
-			 "titulo3":null,
-			"indicador": [2, 1, 0]
+			"titulo3":null,
+			"plazo": 90
 		},
 		{
-			"id": 505,
-			"fecha": "28-01-2018",
-			"hora": "14:15",
+			"id": 502,
+			"fecha": "09-02-2018",
+			"hora": "16:30",
 			"direccion": "Av. Sta. Rosa 1234, Santiago",
 			"comuna": "Santiago",
 			"gps":{"latitude":-33.461555,"longitude":-70.642868},
 			"titulo1":"#5625 - Hospital San Borja Arriaran", 
 			"titulo2":"Entrega Impresora B2",
-			 "titulo3":null,
-			"indicador": [1, 1, 0]
+			"titulo3":null,
+			"plazo": 100
 		},
 		{
-			"id": 506,
-			"fecha": "28-01-2018",
-			"hora": "17:00",
+			"id": 503,
+			"fecha": "09-02-2018",
+			"hora": "18:00",
 			"direccion": "Nueva Providencia 2353",
 			"comuna": "Providencia",
 			"gps":{"latitude":-33.441396,"longitude":-70.618471},
 			"titulo1":"#5625 - Consulado de Italia", 
 			"titulo2":"Entrega Toner JJO",
 			"titulo3":null,
-			"indicador": [1, 2, 0]
+			"plazo": 160
+		},
+		{
+			"id": 504,
+		  "fecha": "10-02-2018",
+			"hora": "08:55",
+			"direccion": "Blanco Encalada 2540",
+			"comuna": "Santiago",
+			"gps":{"latitude":-33.458643,"longitude":-70.670692},
+			"titulo1":"#5627 - Club Hipico", 
+			"titulo2":"Entrega Toner JJO",
+			"titulo3":null,
+		  "plazo": 200
+		},
+		{
+			"id": 505,
+			"fecha": "10-02-2018",
+			"hora": "10:15",
+			"direccion": "Av. Sta. Rosa 1234, Santiago",
+			"comuna": "Santiago",
+			"gps":{"latitude":-33.461555,"longitude":-70.642868},
+			"titulo1":"#5625 - Hospital San Borja Arriaran", 
+			"titulo2":"Entrega Impresora B2",
+			"titulo3":null,
+			"plazo": 200
+		},
+		{
+			"id": 506,
+			"fecha": "10-02-2018",
+			"hora": "11:30",
+			"direccion": "Nueva Providencia 2353",
+			"comuna": "Providencia",
+			"gps":{"latitude":-33.441396,"longitude":-70.618471},
+			"titulo1":"#5625 - Consulado de Italia", 
+			"titulo2":"Entrega Toner JJO",
+			"titulo3":null,
+			"plazo": 200
 		},
 		{
 			"id": 507,
-			"fecha": "28-01-2018",
-			"hora": "18:35",
+			"fecha": "10-02-2018",
+			"hora": "12:35",
 			"direccion": "Pdte Riesco 5330",
 			"comuna": "Las Condes",
 			"gps":{"latitude":-33.403299,"longitude":-70.575494},
 			"titulo1":"#5625 - KidZania", 
 			"titulo2":"Entrega Toner e Impresora B2",
 			"titulo3":null,
-			"indicador": [2, 1, 2]
+			"plazo": 200
 		},
 		{
 			"id": 508,
-			"fecha": "30-01-2018",
-			"hora": "09:55",
+			"fecha": "10-02-2018",
+			"hora": "13:55",
 			"direccion": "Blanco Encalada 2540",
 			"comuna": "Santiago",
 			"gps":{"latitude":-33.458643,"longitude":-70.670692},
 			"titulo1":"#5627 - Club Hipico", 
 			"titulo2":"Entrega Impresora JJO",
 			 "titulo3":null,
-			"indicador": [2, 1, 0]
+			"plazo": 200
 		},
 		{
 			"id": 509,
-			"fecha": "30-01-2018",
-			"hora": "12:30",
+			"fecha": "10-02-2018",
+			"hora": "15:30",
 			"direccion": "Nueva Providencia 2353",
 			"comuna": "Providencia",
 			"gps":{"latitude":-33.441396,"longitude":-70.618471},
 			"titulo1":"#5625 - Consulado de Italia", 
 			"titulo2":"Entrega Toner JJO",
 			"titulo3":null,
-			"indicador": [2, 2, 2]
+			"plazo": 200
 		},
 		{
 			"id": 510,
-			"fecha": "30-01-2018",
-			"hora": "14:15",
+			"fecha": "11-02-2018",
+			"hora": "09:15",
 			"direccion": "Nueva Providencia 2353",
 			"comuna": "Providencia",
 			"gps":{"latitude":-33.420550,"longitude":-70.606717},
 			"titulo1":"#5625 - Metrogas", 
 			"titulo2":"Entrega Toner JJO",
 			 "titulo3":null,
-			"indicador": [1, 1, 0]
+			"plazo": 200
 		},
 		{
 			"id": 511,
-			"fecha": "30-01-2018",
-			"hora": "17:15",
+			"fecha": "11-02-2018",
+			"hora": "11:15",
 			"direccion": "Pdte Riesco 5330",
 			"comuna": "Las Condes",
 			"gps":{"latitude":-33.403299,"longitude":-70.575494},
 			"titulo1":"#5625 - KidZania", 
 			"titulo2":"Entrega Toner e Impresora B2",
 			"titulo3":null,
-			"indicador": [2, 1, 2]
+			"plazo": 200
 		}	     
 	]
 }
-
