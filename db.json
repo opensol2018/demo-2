@@ -57,7 +57,7 @@
 			"titulo1":"#5627 - Club Hipico", 
 			"titulo2":"Entrega Toner JJO",
 			"titulo3":null,
-			"plazo": 90
+			"plazo": 125
 		},
 		{
 			"id": 502,
@@ -69,7 +69,7 @@
 			"titulo1":"#5625 - Hospital San Borja Arriaran", 
 			"titulo2":"Entrega Impresora B2",
 			"titulo3":null,
-			"plazo": 100
+			"plazo": 130
 		},
 		{
 			"id": 503,
