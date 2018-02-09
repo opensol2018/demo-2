@@ -57,7 +57,7 @@
 			"titulo1":"#5627 - Club Hipico", 
 			"titulo2":"Entrega Toner JJO",
 			"titulo3":null,
-			"plazo": "#A6ACAF"
+			"plazo": "#7D3C98"
 		},
 		{
 			"id": 502,
@@ -69,7 +69,7 @@
 			"titulo1":"#5625 - Hospital San Borja Arriaran", 
 			"titulo2":"Entrega Impresora B2",
 			"titulo3":null,
-			"plazo": "#A6ACAF"
+			"plazo": "#7D3C98"
 		},
 		{
 			"id": 503,
@@ -81,7 +81,7 @@
 			"titulo1":"#5625 - Consulado de Italia", 
 			"titulo2":"Entrega Toner JJO",
 			"titulo3":null,
-			"plazo": "#A6ACAF"
+			"plazo": "#7D3C98"
 		},
 		{
 			"id": 504,
@@ -93,7 +93,7 @@
 			"titulo1":"#5627 - Club Hipico", 
 			"titulo2":"Entrega Toner JJO",
 			"titulo3":null,
-		 	"plazo": "blue"
+		 	"plazo": "#7D3C98"
 		},
 		{
 			"id": 505,
